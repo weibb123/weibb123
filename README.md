@@ -1,6 +1,6 @@
 # Portfolio
 
-## Projects
+## Personal Projects
 
 ## [Turn Boston Image into art](https://github.com/weibb123/BostonImageStyleTransfer)
 ***
@@ -11,3 +11,12 @@
 ## [Sentiment_analyzer App](https://github.com/weibb123/Sentiment_Analyzer)
 ***
 * Build ontop of unsupervised sentiment analysis on youtube comment. Use Flask to create simple web app that can read user inputs and predict sentiment (positve, negative, neutral)
+## [Text Summarization](https://github.com/weibb123/Post_Summarization)
+***
+* TBA
+
+## Work Projects
+## [Boston_EV_with Environmental Justice](https://bucas.maps.arcgis.com/apps/dashboards/db00e870e976410b9ff3a115e661ef16)
+***
+* Worked on ArcGIS to map out Boston environmental justice and public EV location
+
