@@ -11,7 +11,7 @@
 * Not needing training labels, model can predict social media comments by either positive, negative, or neutral. Emoji works as well :)
 * Using WordCloud to visualize the performance of specific youtuber's video
 * Model don't live in jupyter notebook, went ahead and work on deploy to webapp using StreamLit
-* [website](s)
+* [website](https://weibb123-unsupervised-sentiment-analysis-on-youtube-app-vcg140.streamlit.app/)
 ## [Boston Restaurant recommender](https://github.com/weibb123/BostonRestaurantRecommender)
 ***
 * New to Boston or cannot think of a place to eat?
